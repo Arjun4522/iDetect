@@ -1,4 +1,8 @@
 # iDetect
 
-For demo video link:
+For demo video and pictures link:
+
+software- 
+
+hardware- 
 
